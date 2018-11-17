@@ -1,0 +1,20 @@
+{
+    "algorithm": "CryptoNight",
+    "coin": "DRGL",
+    "diffTarget": 81,
+    "forkedFrom": [
+        "bcn-bytecoin",
+        "krb-karbo"
+    ],
+    "icon": "https://storage.googleapis.com/forkmaps/images/cryptonote/drgl-icon.png", 
+    "links": {
+        "bitcointalkAnn": "https://bitcointalk.org/index.php?topic=2712001.0",
+        "discord": "https://discord.gg/5UJcJJg",
+        "repo": "https://github.com/ZirtysPerzys/DRGL",
+        "telegram": "https://t.me/DRGL_is_Dragonglass",
+        "twitter": "https://twitter.com/ZirtysPerzys",
+        "website": "https://zirtysperzys.org/"
+    },
+    "name": "Dragonglass",
+    "startDate": "2017-12-27 00:01:12"
+}
